@@ -1,4 +1,4 @@
-sudo timedatectl set-timezone EST
+sudo timedatectl set-timezone America/New_York
 wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
 sudo apt install ./google-chrome-stable_current_amd64.deb -y
 sudo wget https://builds.parsecgaming.com/package/parsec-linux.deb
