@@ -3,8 +3,8 @@ wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
 sudo apt install ./google-chrome-stable_current_amd64.deb -y
 sudo wget https://builds.parsecgaming.com/package/parsec-linux.deb
 sudo apt install ./parsec-linux.deb
-sudo wget install https://download.anydesk.com/linux/anydesk_5.5.6-1_amd64.deb
-sudo apt install ./anydesk_5.5.6-1_amd64.deb -y
+sudo wget install https://download.anydesk.com/linux/anydesk_6.0.0-1_amd64.deb
+sudo apt install ./anydesk_6.0.0-1_amd64.deb -y
 sudo apt-get install openvpn -y
 sudo apt-get install gnome-screenshot
 sudo wget https://github.com/runelite/launcher/releases/download/2.1.0/RuneLite.AppImage
